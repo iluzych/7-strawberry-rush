@@ -21,6 +21,7 @@ body {
 header {
     display: flex;
     justify-content: space-between;
+    align-items: center;
     width: 1000px;
 }
 
@@ -50,9 +51,7 @@ header {
 .left-column {
     float: left;
     width: 300px;
-    margin-left: 2%;
     margin-top: 40px;
-    display: inline-block;
 }
 
 .left-bracket {
